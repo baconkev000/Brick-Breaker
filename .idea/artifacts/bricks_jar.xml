@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bricks:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bricks_jar</output-path>
+    <root id="archive" name="bricks.jar">
+      <element id="module-output" name="bricks" />
+    </root>
+  </artifact>
+</component>
